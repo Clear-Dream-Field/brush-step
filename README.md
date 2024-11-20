@@ -15,7 +15,7 @@ git clone
 ```sh
 npm install
 ```
-4.项目打包
+3.项目打包
 ```sh
 npm run build
 ```
