@@ -9,7 +9,7 @@
 ## 如何使用
 1.克隆本项目到本地
 ```sh
-git clone 
+git clone https://github.com/Clear-Dream-Field/brush-step.git
 ```
 2.进入项目目录安装依赖文件
 ```sh
