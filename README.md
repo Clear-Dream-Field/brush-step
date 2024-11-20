@@ -14,7 +14,7 @@ git clone
 2.进入项目目录安装依赖文件
 ```sh
 npm install
-```sh
+```
 4.项目打包
 ```sh
 npm run build
